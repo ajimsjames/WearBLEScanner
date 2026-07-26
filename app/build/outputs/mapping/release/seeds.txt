@@ -1,0 +1,1108 @@
+androidx.compose.ui.semantics.AppendedSemanticsElement
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$5
+com.google.android.gms.common.api.internal.BasePendingResult
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+androidx.compose.ui.semantics.EmptySemanticsElement
+com.google.android.gms.common.util.DynamiteApi
+androidx.compose.foundation.layout.LayoutWeightElement
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1
+androidx.compose.ui.input.key.KeyInputElement
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+com.example.wearblescanner.ComposableSingletons$MainActivityKt
+androidx.compose.ui.layout.LayoutElement
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.core.app.RemoteActionCompat
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3
+com.example.wearblescanner.MainActivity
+androidx.compose.ui.input.rotary.RotaryInputElement
+com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1
+com.google.android.gms.common.GooglePlayServicesManifestException
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$1$1
+androidx.versionedparcelable.ParcelImpl
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2
+com.example.wearblescanner.ui.BleTab
+androidx.startup.InitializationProvider
+com.google.android.gms.common.api.Status
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.compose.ui.focus.FocusTargetNode$FocusTargetElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2
+androidx.compose.foundation.layout.FillElement
+com.google.android.gms.auth.api.signin.GoogleSignInAccount
+com.example.wearblescanner.ui.BLEScannerScreenKt
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1
+com.example.wearblescanner.ui.BleDeviceItem
+kotlinx.coroutines.android.AndroidDispatcherFactory
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1
+com.google.android.gms.common.annotation.KeepName
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4
+androidx.compose.foundation.HoverableElement
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.compose.foundation.gestures.ScrollableElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1
+com.google.android.gms.common.api.Scope
+com.google.android.gms.common.api.GoogleApiActivity
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.compose.ui.graphics.GraphicsLayerElement
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.core.graphics.drawable.IconCompat
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt
+androidx.compose.ui.node.ForceUpdateElement
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1
+androidx.compose.foundation.layout.SizeElement
+com.google.android.gms.common.GooglePlayServicesIncorrectManifestValueException
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$WhenMappings
+androidx.annotation.Keep
+androidx.profileinstaller.ProfileInstallerInitializer
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1
+androidx.emoji2.text.EmojiCompatInitializer
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1
+com.example.wearblescanner.R$drawable
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+androidx.compose.foundation.layout.PaddingElement
+androidx.profileinstaller.ProfileInstallReceiver
+androidx.compose.foundation.ClickableElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$$inlined$sortedByDescending$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1
+com.example.wearblescanner.R
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$1$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$1
+androidx.compose.foundation.BackgroundElement
+androidx.compose.ui.platform.DragAndDropModifierOnDragListener$modifier$1
+androidx.lifecycle.ProcessLifecycleInitializer
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3
+androidx.compose.ui.draw.DrawBehindElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1
+com.google.android.gms.common.api.internal.LifecycleCallback
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7
+androidx.compose.foundation.FocusableElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2
+androidx.core.app.CoreComponentFactory
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$1
+androidx.compose.foundation.layout.WrapContentElement
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$4
+androidx.compose.ui.draw.DrawWithContentElement
+com.example.wearblescanner.ui.BleDeviceItem: double distanceEstMeters
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1: com.example.wearblescanner.ui.BleDeviceItem $dev
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: int $$changed
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1 INSTANCE
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: int mContentLayoutId
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5: com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1: java.util.List $deviceList
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: androidx.compose.runtime.MutableState $compassAzimuth$delegate
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2: java.util.List $deviceList
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2: android.content.Context $context
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2: int $$changed
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: java.util.concurrent.atomic.AtomicInteger mNextLocalRequestCode
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.activity.ComponentActivity: androidx.lifecycle.LifecycleRegistry mLifecycleRegistry
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1 INSTANCE
+com.example.wearblescanner.R$drawable: int ic_launcher_round
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-9
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: kotlin.jvm.functions.Function0 $onClick
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-11
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String address
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab ABOUT
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1: android.content.Context $context
+androidx.activity.ComponentActivity: androidx.activity.FullyDrawnReporter mFullyDrawnReporter
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList mOnNewIntentListeners
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String name
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$1: java.util.List $deviceList
+com.example.wearblescanner.ui.BleDeviceItem: long lastSeenMs
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultRegistry mActivityResultRegistry
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1: com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1 $scanCallback$inlined
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1: androidx.compose.runtime.MutableState $bleDevices$delegate
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3: java.util.List $items
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: androidx.compose.runtime.MutableState $compassAzimuth$delegate
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: kotlin.jvm.internal.Ref$ObjectRef $gravity
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1 INSTANCE
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$1$1: kotlin.jvm.functions.Function0 $onClick
+androidx.activity.ComponentActivity: androidx.savedstate.SavedStateRegistryController mSavedStateRegistryController
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab RADAR
+kotlinx.coroutines.channels.BufferedChannel: long receivers
+androidx.activity.ComponentActivity: androidx.activity.contextaware.ContextAwareHelper mContextAwareHelper
+com.example.wearblescanner.MainActivity: int $stable
+androidx.core.app.ComponentActivity: androidx.collection.SimpleArrayMap mExtraDataMap
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.activity.ComponentActivity: androidx.core.view.MenuHostHelper mMenuHostHelper
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab GATT_LIST
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3: androidx.compose.runtime.MutableState $selectedTab$delegate
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8: java.util.List $items
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1: com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1 $listener$inlined
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4: androidx.compose.runtime.MutableState $selectedDevice$delegate$inlined
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: com.example.wearblescanner.ui.BleDeviceItem $dev
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-4
+androidx.activity.ComponentActivity: androidx.activity.OnBackPressedDispatcher mOnBackPressedDispatcher
+com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1: com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1 INSTANCE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3: kotlin.jvm.functions.Function1 $contentType
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: java.util.List $deviceList
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1: androidx.compose.runtime.MutableState $compassAzimuth$delegate
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object head
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.android.gms.common.internal.TelemetryData: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 lambda-1
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+androidx.core.app.ComponentActivity: androidx.lifecycle.LifecycleRegistry mLifecycleRegistry
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+kotlin.jvm.internal.Lambda: int arity
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$4: int $$changed
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2: androidx.compose.runtime.MutableState $selectedTab$delegate
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4: java.util.List $items
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: boolean $selected
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-7
+kotlinx.coroutines.CancelledContinuation: int _resumed
+androidx.activity.ComponentActivity: java.lang.String ACTIVITY_RESULT_TAG
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab FINDER
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1 INSTANCE
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2: java.util.List $items
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-6
+kotlinx.coroutines.sync.SemaphoreImpl: int _availablePermits
+com.google.android.gms.common.internal.zzj: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.sync.SemaphoreImpl: long deqIdx
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7: java.util.List $items
+androidx.activity.ComponentActivity: androidx.activity.ComponentActivity$ReportFullyDrawnExecutor mReportFullyDrawnExecutor
+com.example.wearblescanner.ui.BleDeviceItem: java.util.List uuids
+com.google.android.gms.common.internal.MethodInvocation: android.os.Parcelable$Creator CREATOR
+androidx.activity.ComponentActivity: boolean mDispatchingOnPictureInPictureModeChanged
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1 INSTANCE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+kotlinx.coroutines.sync.SemaphoreImpl: long enqIdx
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-8
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.signin.internal.zag: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1: androidx.compose.runtime.MutableState $bleDevices$delegate
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2: androidx.compose.runtime.MutableState $compassAzimuth$delegate
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList mOnConfigurationChangedListeners
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7: kotlin.jvm.functions.Function1 $contentType
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: kotlin.jvm.internal.Ref$ObjectRef $geomagnetic
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8: androidx.compose.runtime.MutableState $selectedDevice$delegate$inlined
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab[] $VALUES
+kotlinx.coroutines.sync.SemaphoreImpl: java.lang.Object tail
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt INSTANCE
+com.example.wearblescanner.ui.BleTab: kotlin.enums.EnumEntries $ENTRIES
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1: androidx.compose.runtime.MutableState $selectedDevice$delegate
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.android.gms.common.internal.zav: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1: android.bluetooth.le.BluetoothLeScanner $bleScanner$inlined
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1: androidx.compose.runtime.MutableState $selectedDevice$delegate
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-5
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2: int $rssi
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-2
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2: kotlin.jvm.functions.Function1 $key
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-1
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4: androidx.compose.runtime.MutableState $selectedTab$delegate
+com.google.android.gms.common.internal.zat: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1 INSTANCE
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1: com.example.wearblescanner.ui.BleDeviceItem $dev
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6: java.util.List $items
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelStore mViewModelStore
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: kotlin.jvm.functions.Function0 $onClick
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-10
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1: androidx.compose.runtime.MutableState $selectedTab$delegate
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.example.wearblescanner.ui.BleDeviceItem: int $stable
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$5: com.example.wearblescanner.ui.BleDeviceItem $target
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.R$drawable: int ic_launcher
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelProvider$Factory mDefaultFactory
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 lambda-3
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$WhenMappings: int[] $EnumSwitchMapping$0
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6: kotlin.jvm.functions.Function1 $key
+kotlinx.coroutines.CompletedExceptionally: int _handled
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1: com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1 INSTANCE
+androidx.activity.ComponentActivity: boolean mDispatchingOnMultiWindowModeChanged
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: int $$changed
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1: com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1 INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2: androidx.compose.runtime.MutableState $compassAzimuth$delegate
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList mOnPictureInPictureModeChangedListeners
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.example.wearblescanner.ComposableSingletons$MainActivityKt: com.example.wearblescanner.ComposableSingletons$MainActivityKt INSTANCE
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$1$1: kotlin.jvm.functions.Function0 $onClick
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1: android.hardware.SensorManager $sensorManager$inlined
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList mOnMultiWindowModeChangedListeners
+androidx.activity.ComponentActivity: java.util.concurrent.CopyOnWriteArrayList mOnTrimMemoryListeners
+com.example.wearblescanner.ui.BleDeviceItem: int rssi
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: androidx.compose.runtime.MutableState $selectedDevice$delegate
+androidx.compose.foundation.lazy.layout.DefaultLazyKey: android.os.Parcelable$Creator CREATOR
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: java.lang.String $text
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Action$Builder setAuthenticationRequired(android.app.Notification$Action$Builder,boolean)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api16Impl: void setImportantForAccessibility(android.view.View,int)
+androidx.core.app.RemoteInput$Api29Impl: android.app.RemoteInput$Builder setEditChoicesBeforeSending(android.app.RemoteInput$Builder,int)
+androidx.core.app.RemoteInput$Api26Impl: android.app.RemoteInput$Builder setAllowDataType(android.app.RemoteInput$Builder,java.lang.String,boolean)
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.core.view.ViewCompat$Api19Impl: boolean isAttachedToWindow(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+androidx.core.app.RemoteInput$Api26Impl: void addDataResultToIntent(androidx.core.app.RemoteInput,android.content.Intent,java.util.Map)
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.core.app.RemoteInput$Api26Impl: java.util.Map getDataResultsFromIntent(android.content.Intent,java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui_release(long)
+androidx.core.app.RemoteInput$Api20Impl: void addResultsToIntent(java.lang.Object,android.content.Intent,android.os.Bundle)
+kotlin.random.Random: Random()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo,long)
+androidx.core.app.RemoteInput$Api26Impl: java.util.Set getAllowedDataTypes(java.lang.Object)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.core.view.ViewCompat$Api19Impl: void setAccessibilityLiveRegion(android.view.View,int)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2(kotlin.jvm.functions.Function1,java.util.List)
+androidx.compose.ui.text.android.StaticLayoutFactory23: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: void setStateDescription(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Action$Builder createBuilder(android.graphics.drawable.Icon,java.lang.CharSequence,android.app.PendingIntent)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api24Impl: void addSetProgressAction(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1: java.lang.Object invoke(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroupSummary(android.app.Notification$Builder,boolean)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+com.example.wearblescanner.R: R()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.View)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+androidx.activity.ComponentActivity: androidx.savedstate.SavedStateRegistry getSavedStateRegistry()
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.MainActivity: MainActivity()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1: void invoke(androidx.wear.compose.foundation.CurvedScope)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api29Impl: void addPageActions(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1: ComposableSingletons$BLEScannerScreenKt$lambda-9$1()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$4: void invoke(androidx.compose.runtime.Composer,int)
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList getDefault()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api19Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat createCollectionItemInfo(int,int,int,int,boolean)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+com.example.wearblescanner.ui.BleDeviceItem: com.example.wearblescanner.ui.BleDeviceItem copy$default(com.example.wearblescanner.ui.BleDeviceItem,java.lang.String,java.lang.String,int,double,java.util.List,long,int,java.lang.Object)
+androidx.core.view.ViewCompat$Api16Impl: void setBackground(android.view.View,android.graphics.drawable.Drawable)
+androidx.compose.foundation.layout.LayoutOrientation: androidx.compose.foundation.layout.LayoutOrientation valueOf(java.lang.String)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+kotlin.collections.AbstractMutableList: AbstractMutableList()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+androidx.activity.ComponentActivity: void addOnTrimMemoryListener(androidx.core.util.Consumer)
+androidx.core.view.ViewCompat$Api19Impl: int getAccessibilityLiveRegion(android.view.View)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.activity.ComponentActivity: void onConfigurationChanged(android.content.res.Configuration)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6: java.lang.Object invoke(java.lang.Object)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomBigContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6: java.lang.Object invoke(int)
+androidx.activity.ComponentActivity: void ensureViewModelStore()
+com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1: void invoke(androidx.compose.runtime.Composer,int)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+com.example.wearblescanner.ui.BleDeviceItem: long component6()
+androidx.core.os.BundleApi21ImplKt: void putSizeF(android.os.Bundle,java.lang.String,android.util.SizeF)
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String getName()
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String component2()
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.core.app.NotificationCompat$BigTextStyle$Api16Impl: android.app.Notification$BigTextStyle setBigContentTitle(android.app.Notification$BigTextStyle,java.lang.CharSequence)
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+com.example.wearblescanner.ui.BLEScannerScreenKt: java.util.Map access$BLEScannerScreen$lambda$7(androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$ViewTranslationHelperMethodsS: void onVirtualViewTranslationResponses(androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat,android.util.LongSparseArray)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: android.view.accessibility.AccessibilityNodeInfo$ExtraRenderingInfo getExtraRenderingInfo(android.view.accessibility.AccessibilityNodeInfo)
+androidx.startup.InitializationProvider: InitializationProvider()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1: java.lang.Object invoke()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1: void invoke()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+androidx.compose.foundation.Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1$1(androidx.compose.runtime.MutableState)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api19Impl: android.os.Bundle getExtras(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.core.app.NotificationCompatBuilder$Api16Impl: android.app.Notification$Builder setUsesChronometer(android.app.Notification$Builder,boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+androidx.compose.ui.text.font.TypefaceHelperMethodsApi28: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+androidx.activity.ComponentActivity: java.lang.Object onRetainNonConfigurationInstance()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.activity.ComponentActivity: androidx.activity.FullyDrawnReporter getFullyDrawnReporter()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-1$app_release()
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5: java.lang.Object invoke(java.lang.Object)
+androidx.activity.ComponentActivity: void reportFullyDrawn()
+androidx.core.view.ViewCompat$Api16Impl: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider(android.view.View)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1: java.lang.Object invoke()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5: java.lang.Void invoke(java.lang.Object)
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList getAdjustedDefault()
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String component1()
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Action$Builder setSemanticAction(android.app.Notification$Action$Builder,int)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api19Impl: void setContentChangeTypes(android.view.accessibility.AccessibilityEvent,int)
+androidx.activity.ComponentActivity: void onBackPressed()
+androidx.core.view.ViewCompat$Api16Impl: int getWindowSystemUiVisibility(android.view.View)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.compose.ui.platform.WrapperRenderNodeLayerHelperMethods: void onDescendantInvalidated(androidx.compose.ui.platform.AndroidComposeView)
+androidx.core.text.ICUCompat$Api24Impl: android.icu.util.ULocale forLocale(java.util.Locale)
+androidx.core.app.NotificationCompatBuilder$Api16Impl: android.app.Notification$Builder setPriority(android.app.Notification$Builder,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setSound(android.app.Notification$Builder,android.net.Uri,java.lang.Object)
+androidx.compose.foundation.layout.SizeMode: androidx.compose.foundation.layout.SizeMode valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+com.example.wearblescanner.ui.BLEScannerScreenKt: float access$BLEScannerScreen$lambda$13(androidx.compose.runtime.MutableState)
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider,androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$State)
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder createBuilder(android.content.Context,java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1: BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1(android.bluetooth.le.BluetoothLeScanner,com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1)
+androidx.activity.ComponentActivity: androidx.activity.OnBackPressedDispatcher access$100(androidx.activity.ComponentActivity)
+androidx.compose.ui.text.android.Paint29: void getTextBounds(android.graphics.Paint,java.lang.CharSequence,int,int,android.graphics.Rect)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: BLEScannerScreenKt$BLEScannerScreen$3$1(java.util.List,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState,androidx.compose.runtime.MutableState)
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setColor(android.app.Notification$Builder,int)
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String toString()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: void setTextLocales(androidx.compose.ui.text.platform.AndroidTextPaint,androidx.compose.ui.text.intl.LocaleList)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: void onAccuracyChanged(android.hardware.Sensor,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: void onSensorChanged(android.hardware.SensorEvent)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-10$app_release()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api26Impl: android.view.autofill.AutofillId getAutofillId(android.view.View)
+androidx.core.content.res.FontResourcesParserCompat$Api21Impl: int getType(android.content.res.TypedArray,int)
+androidx.activity.ComponentActivity: androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setShortcutId(android.app.Notification$Builder,java.lang.String)
+androidx.core.view.ViewCompat$Api29Impl: void setContentCaptureSession(android.view.View,android.view.contentcapture.ContentCaptureSession)
+androidx.core.app.ComponentActivity: boolean superDispatchKeyEvent(android.view.KeyEvent)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2: java.lang.Object invoke(java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1()
+androidx.compose.ui.autofill.AutofillApi23Helper: int addChildCount(android.view.ViewStructure,int)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$TranslateStatus: androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$TranslateStatus[] values()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1: BLEScannerScreenKt$BLEScannerScreen$2$listener$1(kotlin.jvm.internal.Ref$ObjectRef,kotlin.jvm.internal.Ref$ObjectRef,androidx.compose.runtime.MutableState)
+androidx.compose.ui.autofill.AutofillCallback: void register(androidx.compose.ui.autofill.AndroidAutofill)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.foundation.layout.LayoutOrientation: androidx.compose.foundation.layout.LayoutOrientation[] values()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewsDisappeared(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long[])
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isToggle(android.view.autofill.AutofillValue)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setTextStyle(android.view.ViewStructure,float,int,int,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen(androidx.compose.runtime.Composer,int)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+androidx.core.view.ViewCompat$Api16Impl: boolean hasTransientState(android.view.View)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setLocusId(android.app.Notification$Builder,java.lang.Object)
+androidx.activity.ComponentActivity: void removeOnTrimMemoryListener(androidx.core.util.Consumer)
+androidx.compose.ui.autofill.AutofillApi23Helper: android.view.ViewStructure newChild(android.view.ViewStructure,int)
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultRegistry getActivityResultRegistry()
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setSmallIcon(android.app.Notification$Builder,java.lang.Object)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action build(android.app.Notification$Action$Builder)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: java.lang.CharSequence getContainerTitle(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+androidx.activity.ComponentActivity: void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1(androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+androidx.core.util.ObjectsCompat$Api19Impl: int hash(java.lang.Object[])
+com.example.wearblescanner.ui.BleDeviceItem: java.lang.String getAddress()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+androidx.activity.ComponentActivity: boolean onCreatePanelMenu(int,android.view.Menu)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3: java.lang.Object invoke(java.lang.Object)
+androidx.compose.ui.platform.AccessibilityNodeInfoVerificationHelperMethods: void setAvailableExtraData(android.view.accessibility.AccessibilityNodeInfo,java.util.List)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setUniqueId(android.view.accessibility.AccessibilityNodeInfo,java.lang.String)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View,android.view.translation.ViewTranslationCallback)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui_release$annotations()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean isAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1: java.lang.Object invoke()
+androidx.activity.ComponentActivity: void addOnPictureInPictureModeChangedListener(androidx.core.util.Consumer)
+androidx.compose.ui.autofill.AutofillApi26Helper: java.lang.CharSequence textValue(android.view.autofill.AutofillValue)
+androidx.core.app.NotificationCompat$BigTextStyle$Api16Impl: android.app.Notification$BigTextStyle createBigTextStyle(android.app.Notification$Builder)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api29Impl: java.util.List getSystemGestureExclusionRects(android.view.View)
+androidx.activity.ComponentActivity: void initializeViewTreeOwners()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.compose.ui.autofill.AutofillApi26Helper: android.view.autofill.AutofillId getAutofillId(android.view.ViewStructure)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: ComposableSingletons$BLEScannerScreenKt()
+androidx.activity.ComponentActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])
+androidx.activity.ComponentActivity: void addOnMultiWindowModeChangedListener(androidx.core.util.Consumer)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1(androidx.compose.runtime.MutableState)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: boolean isTextSelectable(android.view.accessibility.AccessibilityNodeInfo)
+androidx.activity.ComponentActivity: void access$001(androidx.activity.ComponentActivity)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewAppeared(android.view.contentcapture.ContentCaptureSession,android.view.ViewStructure)
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7(kotlin.jvm.functions.Function1,java.util.List)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2: void invoke(androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setGroupAlertBehavior(android.app.Notification$Builder,int)
+com.example.wearblescanner.MainActivity: void onCreate(android.os.Bundle)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder createBuilder(int,java.lang.CharSequence,android.app.PendingIntent)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillHints(android.view.ViewStructure,java.lang.String[])
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.compose.ui.text.input.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1: void invoke()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewTextChanged(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,java.lang.CharSequence)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: void invoke(androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: java.lang.Object invoke(java.lang.Object)
+androidx.activity.ComponentActivity: void addOnNewIntentListener(androidx.core.util.Consumer)
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab[] $values()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-4$app_release()
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api19Impl: java.lang.Object createRangeInfo(int,float,float,float)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1$1$1: void invoke()
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelStore getViewModelStore()
+androidx.activity.ComponentActivity: void setContentView(int)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+androidx.core.app.NotificationCompat$BigTextStyle$Api16Impl: android.app.Notification$BigTextStyle bigText(android.app.Notification$BigTextStyle,java.lang.CharSequence)
+com.example.wearblescanner.ui.BleDeviceItem: com.example.wearblescanner.ui.BleDeviceItem copy(java.lang.String,java.lang.String,int,double,java.util.List,long)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1(androidx.compose.runtime.MutableState)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2: java.lang.Object invoke(java.lang.Object)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.example.wearblescanner.ui.BleDeviceItem: BleDeviceItem(java.lang.String,java.lang.String,int,double,java.util.List,long)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setSortKey(android.app.Notification$Builder,java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$$inlined$sortedByDescending$1: int compare(java.lang.Object,java.lang.Object)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.core.text.ICUCompat$Api24Impl: java.lang.String getScript(java.lang.Object)
+androidx.core.view.ViewCompat$Api16Impl: void postInvalidateOnAnimation(android.view.View,int,int,int,int)
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+com.example.wearblescanner.ui.BLEScannerScreenKt: com.example.wearblescanner.ui.BleDeviceItem access$BLEScannerScreen$lambda$10(androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+com.example.wearblescanner.ui.BLEScannerScreenKt$SignalStrengthBar$2: BLEScannerScreenKt$SignalStrengthBar$2(int,int)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.core.view.ViewCompat$Api16Impl: android.view.ViewParent getParentForAccessibility(android.view.View)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-7$app_release()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setContentDescription(android.view.ViewStructure,java.lang.CharSequence)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.core.app.NotificationCompat$BigTextStyle$Api16Impl: android.app.Notification$BigTextStyle setSummaryText(android.app.Notification$BigTextStyle,java.lang.CharSequence)
+androidx.compose.ui.input.pointer.MotionEventHelper: long toRawOffset-dBAh8RU(android.view.MotionEvent,int)
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,android.view.autofill.AutofillId)
+androidx.core.app.ComponentActivity: boolean dispatchKeyShortcutEvent(android.view.KeyEvent)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+androidx.compose.ui.text.android.StaticLayoutFactory28: void setUseLineSpacingFromFallbacks(android.text.StaticLayout$Builder,boolean)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+com.example.wearblescanner.ui.BleDeviceItem: BleDeviceItem(java.lang.String,java.lang.String,int,double,java.util.List,long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.core.view.ViewCompat$Api19Impl: boolean isLayoutDirectionResolved(android.view.View)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$4: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt: com.example.wearblescanner.ui.BleTab access$BLEScannerScreen$lambda$1(androidx.compose.runtime.MutableState)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setColorized(android.app.Notification$Builder,boolean)
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.core.view.AccessibilityDelegateCompat$Api16Impl: boolean performAccessibilityAction(android.view.View$AccessibilityDelegate,android.view.View,int,android.os.Bundle)
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1: FocusableKt$FocusableInNonTouchModeElement$1()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemColumnTitle(java.lang.Object)
+androidx.core.graphics.PaintCompat$Api23Impl: boolean hasGlyph(android.graphics.Paint,java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setVisibility(android.app.Notification$Builder,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1(androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setText(android.view.ViewStructure,java.lang.CharSequence)
+androidx.activity.ComponentActivity: void onSaveInstanceState(android.os.Bundle)
+androidx.core.os.ConfigurationCompat$Api24Impl: android.os.LocaleList getLocales(android.content.res.Configuration)
+androidx.compose.ui.text.input.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$1$1: void invoke()
+com.example.wearblescanner.R$drawable: R$drawable()
+androidx.compose.ui.graphics.CanvasZHelper: void enableZ(android.graphics.Canvas,boolean)
+androidx.activity.ComponentActivity: void removeOnPictureInPictureModeChangedListener(androidx.core.util.Consumer)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.provider.FontProvider$Api16Impl: android.database.Cursor query(android.content.ContentResolver,android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.Object)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8: void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1: BLEScannerScreenKt$BLEScannerScreen$3$2$1(androidx.compose.runtime.MutableState)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemRowTitle(java.lang.Object)
+com.example.wearblescanner.ui.BleTab: com.example.wearblescanner.ui.BleTab valueOf(java.lang.String)
+com.example.wearblescanner.ui.BleTab: BleTab(java.lang.String,int)
+com.example.wearblescanner.ui.BleDeviceItem: double component4()
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+androidx.core.view.ViewCompat$Api30Impl: int getImportantForContentCapture(android.view.View)
+androidx.core.app.NotificationCompatBuilder$Api28Impl: android.app.Notification$Builder addPerson(android.app.Notification$Builder,android.app.Person)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4: BLEScannerScreenKt$BLEScannerScreen$3$2$1$4(androidx.compose.runtime.MutableState)
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.compose.ui.graphics.WrapperVerificationHelperMethods: void setBlendMode-GB0RdKg(android.graphics.Paint,int)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1: ComposableSingletons$BLEScannerScreenKt$lambda-4$1()
+com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+com.example.wearblescanner.ui.BleDeviceItem: java.util.List getUuids()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1: BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1(java.util.List,androidx.compose.runtime.MutableState)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api19Impl: void notifySubtreeAccessibilityStateChanged(android.view.ViewParent,android.view.View,android.view.View,int)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.core.app.ComponentActivity: void putExtraData(androidx.core.app.ComponentActivity$ExtraData)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1: ComposableSingletons$BLEScannerScreenKt$lambda-1$1()
+com.example.wearblescanner.ui.BLEScannerScreenKt: boolean BLEScannerScreen$lambda$4(androidx.compose.runtime.MutableState)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1: void invoke()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7: java.lang.Object invoke(java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3: java.lang.Object invoke(int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1: void onScanResult(int,android.bluetooth.le.ScanResult)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void access$BLEScannerScreen$lambda$2(androidx.compose.runtime.MutableState,com.example.wearblescanner.ui.BleTab)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+com.example.wearblescanner.ui.BleDeviceItem: java.util.List component5()
+androidx.core.view.ViewCompat$Api19Impl: boolean isLaidOut(android.view.View)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+androidx.activity.ComponentActivity: java.lang.Object onRetainCustomNonConfigurationInstance()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$1$1: BLEScannerScreenKt$BezelTabPill$1$1(kotlin.jvm.functions.Function0)
+androidx.activity.ComponentActivity: void onActivityResult(int,int,android.content.Intent)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+androidx.compose.ui.autofill.AutofillApi23Helper: void setId(android.view.ViewStructure,int,java.lang.String,java.lang.String,java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isDate(android.view.autofill.AutofillValue)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui_release()
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setBubbleMetadata(android.app.Notification$Builder,android.app.Notification$BubbleMetadata)
+androidx.core.app.RemoteInput$Api20Impl: android.os.Bundle getResultsFromIntent(android.content.Intent)
+com.example.wearblescanner.ui.BLEScannerScreenKt: com.example.wearblescanner.ui.BleTab BLEScannerScreen$lambda$1(androidx.compose.runtime.MutableState)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void access$BLEScannerScreen$lambda$8(androidx.compose.runtime.MutableState,java.util.Map)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-9$app_release()
+androidx.activity.ComponentActivity: androidx.lifecycle.ViewModelProvider$Factory getDefaultViewModelProviderFactory()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-3$app_release()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.core.os.LocaleListCompat$Api24Impl: android.os.LocaleList createLocaleList(java.util.Locale[])
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.core.view.ViewCompat$Api16Impl: void requestFitSystemWindows(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean hasRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getParent(android.view.accessibility.AccessibilityNodeInfo,int)
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3$1$1: void invoke()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setSettingsText(android.app.Notification$Builder,java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api29Impl: void setSystemGestureExclusionRects(android.view.View,java.util.List)
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getChild(android.view.accessibility.AccessibilityNodeInfo,int,int)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider,androidx.lifecycle.LifecycleOwner)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void access$BLEScannerScreen$lambda$14(androidx.compose.runtime.MutableState,float)
+androidx.core.view.ViewCompat$Api16Impl: void setHasTransientState(android.view.View,boolean)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1: BLEScannerScreenKt$BLEScannerScreen$3$1$3$1(com.example.wearblescanner.ui.BleDeviceItem,androidx.compose.runtime.MutableState)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.activity.ComponentActivity: boolean onMenuItemSelected(int,android.view.MenuItem)
+com.example.wearblescanner.ui.BLEScannerScreenKt: float BLEScannerScreen$lambda$13(androidx.compose.runtime.MutableState)
+androidx.core.text.ICUCompat$Api24Impl: android.icu.util.ULocale addLikelySubtags(java.lang.Object)
+androidx.core.util.ObjectsCompat$Api19Impl: boolean equals(java.lang.Object,java.lang.Object)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void startActivityForResult(android.content.Intent,int,android.os.Bundle)
+androidx.core.os.TraceCompat$Api18Impl: void beginSection(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2: BLEScannerScreenKt$BLEScannerScreen$2(android.content.Context,androidx.compose.runtime.MutableState)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder addAction(android.app.Notification$Builder,android.app.Notification$Action)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillId(android.view.ViewStructure,android.view.autofill.AutofillId,int)
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setTextSelectable(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.compose.foundation.Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BleTab: kotlin.enums.EnumEntries getEntries()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$1$1: BLEScannerScreenKt$BleDeviceRow$1$1(kotlin.jvm.functions.Function0)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.compose.ui.platform.RenderNodeApi29VerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+kotlin.collections.AbstractList: AbstractList()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$3: BLEScannerScreenKt$BLEScannerScreen$3$2$1$3(androidx.compose.runtime.MutableState)
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setCategory(android.app.Notification$Builder,java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomHeadsUpContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api16Impl: boolean getFitsSystemWindows(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.activity.ComponentActivity: androidx.lifecycle.viewmodel.CreationExtras getDefaultViewModelCreationExtras()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat buildCollectionItemInfoCompat(boolean,int,int,int,int,boolean,java.lang.String,java.lang.String)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-6$1: ComposableSingletons$BLEScannerScreenKt$lambda-6$1()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: java.lang.Object localeSpan(androidx.compose.ui.text.intl.LocaleList)
+androidx.activity.ComponentActivity: boolean onPreparePanel(int,android.view.View,android.view.Menu)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$5()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.Object createRangeInfo(int,float,float,float)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.activity.ComponentActivity: void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: void invoke(androidx.compose.runtime.Composer,int)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.core.app.NotificationCompatBuilder$Api23Impl: android.app.Notification$Builder setLargeIcon(android.app.Notification$Builder,android.graphics.drawable.Icon)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1: java.lang.Object invoke(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api16Impl: android.app.Notification build(android.app.Notification$Builder)
+androidx.core.graphics.TypefaceCompatUtil$Api19Impl: android.os.ParcelFileDescriptor openFileDescriptor(android.content.ContentResolver,android.net.Uri,java.lang.String,android.os.CancellationSignal)
+com.example.wearblescanner.ui.BleDeviceItem: long getLastSeenMs()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.activity.ComponentActivity: void invalidateMenu()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+androidx.core.app.ComponentActivity: boolean dispatchKeyEvent(android.view.KeyEvent)
+androidx.activity.ComponentActivity: void addContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen$lambda$14(androidx.compose.runtime.MutableState,float)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+androidx.activity.ComponentActivity: void removeOnNewIntentListener(androidx.core.util.Consumer)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void access$BLEScannerScreen$lambda$11(androidx.compose.runtime.MutableState,com.example.wearblescanner.ui.BleDeviceItem)
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.jvm.functions.Function1 getConfigurationChangeObserver()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.core.view.ViewCompat$Api16Impl: int getMinimumHeight(android.view.View)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$3(kotlin.jvm.functions.Function1,java.util.List)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void addOnContextAvailableListener(androidx.activity.contextaware.OnContextAvailableListener)
+com.example.wearblescanner.ComposableSingletons$MainActivityKt$lambda-1$1: ComposableSingletons$MainActivityKt$lambda-1$1()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$1: BLEScannerScreenKt$BLEScannerScreen$3$1$1(java.util.List)
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+com.example.wearblescanner.ComposableSingletons$MainActivityKt: kotlin.jvm.functions.Function2 getLambda-1$app_release()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-9$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setRemoteInputHistory(android.app.Notification$Builder,java.lang.CharSequence[])
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.activity.ComponentActivity: void onMultiWindowModeChanged(boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen$lambda$5(androidx.compose.runtime.MutableState,boolean)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setTimeoutAfter(android.app.Notification$Builder,long)
+androidx.activity.ComponentActivity: void removeOnConfigurationChangedListener(androidx.core.util.Consumer)
+androidx.activity.ComponentActivity: void removeOnContextAvailableListener(androidx.activity.contextaware.OnContextAvailableListener)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.compose.foundation.layout.SizeMode: androidx.compose.foundation.layout.SizeMode[] values()
+androidx.activity.ComponentActivity: void onTrimMemory(int)
+androidx.core.view.ViewCompat$Api16Impl: void removeOnGlobalLayoutListener(android.view.ViewTreeObserver,android.view.ViewTreeObserver$OnGlobalLayoutListener)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getUniqueId(android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.activity.ComponentActivity: void onPictureInPictureModeChanged(boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1: ComposableSingletons$BLEScannerScreenKt$lambda-7$1()
+androidx.compose.ui.text.platform.Api28Impl: android.text.style.TypefaceSpan createTypefaceSpan(android.graphics.Typeface)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.compose.ui.focus.FocusTargetNode$FocusTargetElement: FocusTargetNode$FocusTargetElement()
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1: java.lang.Void invoke(java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setClassName(android.view.ViewStructure,java.lang.String)
+androidx.activity.ComponentActivity: void onPictureInPictureModeChanged(boolean,android.content.res.Configuration)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo,boolean)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2$1$1: void invoke(androidx.compose.ui.graphics.drawscope.DrawScope)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$4: BLEScannerScreenKt$BLEScannerScreen$4(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui_release()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-11$1: ComposableSingletons$BLEScannerScreenKt$lambda-11$1()
+androidx.compose.ui.autofill.AutofillCallback: void unregister(androidx.compose.ui.autofill.AndroidAutofill)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-8$1: ComposableSingletons$BLEScannerScreenKt$lambda-8$1()
+com.google.android.gms.common.api.internal.zzb: zzb()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2: BLEScannerScreenKt$BLEScannerScreen$3$2$1$2(androidx.compose.runtime.MutableState)
+androidx.core.view.ViewCompat$Api16Impl: int getImportantForAccessibility(android.view.View)
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.autofill.AutofillId newAutofillId(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.core.os.BundleApi18ImplKt: void putBinder(android.os.Bundle,java.lang.String,android.os.IBinder)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.core.view.ViewCompat$Api16Impl: boolean performAccessibilityAction(android.view.View,int,android.os.Bundle)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$5: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledHorizontalScrollFactor(android.view.ViewConfiguration)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4: void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.text.android.StaticLayoutFactoryImpl: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+com.google.android.gms.common.ErrorDialogFragment: ErrorDialogFragment()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-2$app_release()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.activity.ComponentActivity: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.activity.ComponentActivity: void onNewIntent(android.content.Intent)
+androidx.compose.foundation.Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$1$1: java.lang.Object invoke()
+androidx.core.app.NotificationCompatBuilder$Api26Impl: android.app.Notification$Builder setBadgeIconType(android.app.Notification$Builder,int)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void addMenuProvider(androidx.core.view.MenuProvider)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$2: java.lang.Object invoke(int)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$5: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: long getMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+androidx.core.view.ViewCompat$Api16Impl: void postOnAnimationDelayed(android.view.View,java.lang.Runnable,long)
+androidx.core.text.ICUCompat$Api21Impl: java.lang.String getScript(java.util.Locale)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BleDeviceRow(com.example.wearblescanner.ui.BleDeviceItem,kotlin.jvm.functions.Function0,androidx.compose.runtime.Composer,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.core.app.NotificationCompatBuilder$Api21Impl: android.app.Notification$Builder setPublicVersion(android.app.Notification$Builder,android.app.Notification)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4: void invoke(androidx.compose.foundation.layout.BoxScope,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2: androidx.compose.runtime.DisposableEffectResult invoke(androidx.compose.runtime.DisposableEffectScope)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.core.app.ComponentActivity: androidx.core.app.ComponentActivity$ExtraData getExtraData(java.lang.Class)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setQueryFromAppProcessEnabled(android.view.accessibility.AccessibilityNodeInfo,android.view.View,boolean)
+androidx.core.view.ViewCompat$Api16Impl: int getMinimumWidth(android.view.View)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$$inlined$sortedByDescending$1: BLEScannerScreenKt$BLEScannerScreen$$inlined$sortedByDescending$1()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+androidx.activity.ComponentActivity: void removeOnMultiWindowModeChangedListener(androidx.core.util.Consumer)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$2$1$1: java.lang.Object invoke()
+androidx.compose.ui.semantics.EmptySemanticsElement: EmptySemanticsElement()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$7: java.lang.Object invoke(int)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newVirtualViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Builder setCustomContentView(android.app.Notification$Builder,android.widget.RemoteViews)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$ViewTranslationHelperMethodsS: void onCreateVirtualViewTranslationRequests(androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat,long[],int[],java.util.function.Consumer)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$2: BLEScannerScreenKt$BLEScannerScreen$3$1$2(java.util.List,androidx.compose.runtime.MutableState)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+com.example.wearblescanner.ui.BLEScannerScreenKt: com.example.wearblescanner.ui.BleDeviceItem BLEScannerScreen$lambda$10(androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+androidx.compose.ui.text.android.StaticLayoutFactory26: void setJustificationMode(android.text.StaticLayout$Builder,int)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api34Impl: void notifyViewsAppeared(android.view.contentcapture.ContentCaptureSession,java.util.List)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$5: BLEScannerScreenKt$BLEScannerScreen$3$1$5(com.example.wearblescanner.ui.BleDeviceItem)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1: void dispose()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void setContentView(android.view.View,android.view.ViewGroup$LayoutParams)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addExtras(android.app.Notification$Action$Builder,android.os.Bundle)
+com.example.wearblescanner.ui.BleDeviceItem: double getDistanceEstMeters()
+androidx.core.view.ViewCompat$Api30Impl: boolean isImportantForContentCapture(android.view.View)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+androidx.core.text.TextUtilsCompat$Api17Impl: int getLayoutDirectionFromLocale(java.util.Locale)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1: void invoke(androidx.compose.foundation.lazy.LazyListScope)
+androidx.core.app.NotificationCompatBuilder$Api24Impl: android.app.Notification$Action$Builder setAllowGeneratedReplies(android.app.Notification$Action$Builder,boolean)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen$lambda$8(androidx.compose.runtime.MutableState,java.util.Map)
+androidx.core.app.NotificationCompatBuilder$Api17Impl: android.app.Notification$Builder setShowWhen(android.app.Notification$Builder,boolean)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isList(android.view.autofill.AutofillValue)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$4$1: BLEScannerScreenKt$BLEScannerScreen$3$1$4$1(com.example.wearblescanner.ui.BleDeviceItem,androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.platform.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-11$app_release()
+androidx.activity.ComponentActivity: void onMultiWindowModeChanged(boolean,android.content.res.Configuration)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Builder setAllowSystemGeneratedContextualActions(android.app.Notification$Builder,boolean)
+androidx.activity.ComponentActivity: void onPanelClosed(int,android.view.Menu)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BezelTabPill(java.lang.String,boolean,kotlin.jvm.functions.Function0,androidx.compose.runtime.Composer,int)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledVerticalScrollFactor(android.view.ViewConfiguration)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$2$1$4$1$1: java.lang.Object invoke()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: java.lang.String getGroup(android.app.Notification)
+androidx.core.app.NotificationCompatBuilder$Api19Impl: android.app.Notification$Builder setExtras(android.app.Notification$Builder,android.os.Bundle)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-5$1: ComposableSingletons$BLEScannerScreenKt$lambda-5$1()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.compose.ui.text.android.StaticLayoutFactory33: void setLineBreakConfig(android.text.StaticLayout$Builder,int,int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1: java.lang.Object invoke(java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+com.example.wearblescanner.ui.BleDeviceItem: boolean equals(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api16Impl: android.app.Notification$Builder setSubText(android.app.Notification$Builder,java.lang.CharSequence)
+com.example.wearblescanner.ui.BleDeviceItem: int getRssi()
+androidx.compose.ui.text.android.StaticLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.StaticLayout)
+androidx.activity.ComponentActivity: java.lang.Object getLastCustomNonConfigurationInstance()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-8$app_release()
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen$lambda$11(androidx.compose.runtime.MutableState,com.example.wearblescanner.ui.BleDeviceItem)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillType(android.view.ViewStructure,int)
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+com.example.wearblescanner.ui.BleDeviceItem: int hashCode()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-4$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-5$app_release()
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+com.example.wearblescanner.ComposableSingletons$MainActivityKt: ComposableSingletons$MainActivityKt()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api16Impl: void postInvalidateOnAnimation(android.view.View)
+androidx.core.os.BundleApi21ImplKt: void putSize(android.os.Bundle,java.lang.String,android.util.Size)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void getBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException: GooglePlayServicesMissingManifestValueException()
+androidx.core.view.ViewCompat$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.core.view.ViewCompat$Api16Impl: void postOnAnimation(android.view.View,java.lang.Runnable)
+androidx.core.app.ComponentActivity: boolean shouldDumpInternalState(java.lang.String[])
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$4(java.util.List,androidx.compose.runtime.MutableState)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void SignalStrengthBar(int,androidx.compose.runtime.Composer,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$invoke$$inlined$onDispose$1: void dispose()
+androidx.activity.ComponentActivity: android.content.Context peekAvailableContext()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isText(android.view.autofill.AutofillValue)
+androidx.core.view.AccessibilityDelegateCompat$Api16Impl: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider(android.view.View$AccessibilityDelegate,android.view.View)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-7$1: void invoke(androidx.compose.foundation.lazy.LazyItemScope,androidx.compose.runtime.Composer,int)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.core.os.ConfigurationCompat$Api24Impl: void setLocales(android.content.res.Configuration,androidx.core.os.LocaleListCompat)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1: BLEScannerScreenKt$BLEScannerScreen$1$scanCallback$1(androidx.compose.runtime.MutableState)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api16Impl: boolean hasOverlappingRendering(android.view.View)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1: java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setGroup(android.app.Notification$Builder,java.lang.String)
+androidx.core.app.NotificationCompatBuilder$Api31Impl: android.app.Notification$Builder setForegroundServiceBehavior(android.app.Notification$Builder,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1: androidx.compose.runtime.DisposableEffectResult invoke(androidx.compose.runtime.DisposableEffectScope)
+com.example.wearblescanner.ui.BLEScannerScreenKt: java.util.Map BLEScannerScreen$lambda$7(androidx.compose.runtime.MutableState)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$3: BLEScannerScreenKt$BezelTabPill$3(java.lang.String,boolean,kotlin.jvm.functions.Function0,int)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$8(java.util.List,androidx.compose.runtime.MutableState)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+kotlin.jvm.internal.Lambda: int getArity()
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$1$1: void invoke()
+androidx.activity.ComponentActivity: void removeMenuProvider(androidx.core.view.MenuProvider)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.compose.ui.autofill.AutofillApi23Helper: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt: kotlin.jvm.functions.Function3 getLambda-6$app_release()
+androidx.core.os.TraceCompat$Api18Impl: void endSection()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BezelTabPill$1$1: java.lang.Object invoke()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$TranslateStatus: androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$TranslateStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6: BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$6(kotlin.jvm.functions.Function1,java.util.List)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1: void invoke()
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void startActivityForResult(android.content.Intent,int)
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Builder setLocalOnly(android.app.Notification$Builder,boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+androidx.compose.ui.platform.AndroidComposeView: void setConfigurationChangeObserver(kotlin.jvm.functions.Function1)
+androidx.activity.ComponentActivity: void addOnConfigurationChangedListener(androidx.core.util.Consumer)
+com.example.wearblescanner.ui.BleDeviceItem: int component3()
+androidx.core.app.NotificationCompatBuilder$Api20Impl: android.app.Notification$Action$Builder addRemoteInput(android.app.Notification$Action$Builder,android.app.RemoteInput)
+androidx.compose.ui.text.android.StaticLayoutFactoryDefault: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1: BLEScannerScreenKt$BLEScannerScreen$2$invoke$$inlined$onDispose$1(android.hardware.SensorManager,com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$2$listener$1)
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultLauncher registerForActivityResult(androidx.activity.result.contract.ActivityResultContract,androidx.activity.result.ActivityResultCallback)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$1: BLEScannerScreenKt$BLEScannerScreen$1(android.content.Context,androidx.compose.runtime.MutableState)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setContainerTitle(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.core.app.RemoteInput$Api29Impl: int getEditChoicesBeforeSending(java.lang.Object)
+androidx.core.app.NotificationCompatBuilder$Api29Impl: android.app.Notification$Action$Builder setContextual(android.app.Notification$Action$Builder,boolean)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+com.example.wearblescanner.ui.BLEScannerScreenKt$BleDeviceRow$3: BLEScannerScreenKt$BleDeviceRow$3(com.example.wearblescanner.ui.BleDeviceItem,kotlin.jvm.functions.Function0,int)
+androidx.activity.ComponentActivity: androidx.activity.result.ActivityResultLauncher registerForActivityResult(androidx.activity.result.contract.ActivityResultContract,androidx.activity.result.ActivityResultRegistry,androidx.activity.result.ActivityResultCallback)
+com.example.wearblescanner.ui.BLEScannerScreenKt: void BLEScannerScreen$lambda$2(androidx.compose.runtime.MutableState,com.example.wearblescanner.ui.BleTab)
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-10$1: ComposableSingletons$BLEScannerScreenKt$lambda-10$1()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-3$1: ComposableSingletons$BLEScannerScreenKt$lambda-3$1()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$3$1: java.lang.Object invoke()
+com.example.wearblescanner.ui.BLEScannerScreenKt$BLEScannerScreen$3$1$invoke$$inlined$items$default$1: java.lang.Object invoke(java.lang.Object)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+com.example.wearblescanner.ui.ComposableSingletons$BLEScannerScreenKt$lambda-2$1: ComposableSingletons$BLEScannerScreenKt$lambda-2$1()
+androidx.compose.ui.platform.ViewLayer$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
