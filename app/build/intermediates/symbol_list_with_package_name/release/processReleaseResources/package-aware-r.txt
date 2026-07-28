@@ -1,4 +1,4 @@
-com.example.wearblescanner
+com.ajimsjames.wearblescanner
 attr action
 attr alpha
 attr argType

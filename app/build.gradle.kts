@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.wearblescanner"
+    namespace = "com.ajimsjames.wearblescanner"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.wearblescanner"
+        applicationId = "com.ajimsjames.wearblescanner"
         minSdk = 30
         targetSdk = 33
-        versionCode = 3
-        versionName = "1.2.0"
+        versionCode = 4
+        versionName = "2.0.0"
 
         vectorDrawables {
             useSupportLibrary = true
