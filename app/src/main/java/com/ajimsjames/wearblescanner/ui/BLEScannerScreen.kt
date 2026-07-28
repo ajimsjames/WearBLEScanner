@@ -155,7 +155,7 @@ fun BLEScannerScreen() {
         LazyColumn(
             modifier = Modifier.fillMaxSize(),
             horizontalAlignment = Alignment.CenterHorizontally,
-            contentPadding = PaddingValues(top = 40.dp, bottom = 24.dp)
+            contentPadding = PaddingValues(top = 52.dp, bottom = 24.dp)
         ) {
             when (selectedTab) {
                 BleTab.RADAR -> {
